@@ -1,6 +1,6 @@
 # npmdoc-os-service
 
-#### api documentation for  [os-service (v1.4.1)](https://github.com/stephenwvickers/node-os-service#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-os-service.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-os-service) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-os-service.svg)](https://travis-ci.org/npmdoc/node-npmdoc-os-service)
+#### basic api documentation for  [os-service (v1.4.1)](https://github.com/stephenwvickers/node-os-service#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-os-service.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-os-service) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-os-service.svg)](https://travis-ci.org/npmdoc/node-npmdoc-os-service)
 
 #### Run Node.JS programs as native Operating System Services.
 
@@ -74,7 +74,8 @@
     "scripts": {
         "install": "node-gyp rebuild"
     },
-    "version": "1.4.1"
+    "version": "1.4.1",
+    "bin": {}
 }
 ```
 
